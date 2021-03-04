@@ -1,4 +1,5 @@
 # Team-Profile-Generator
+## User Story
 
 ```md
 AS A manager
