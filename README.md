@@ -30,3 +30,5 @@ THEN I exit the application, and the HTML is generated
 ## Video and link 
 
 https://drive.google.com/file/d/1zFAv5suAmRCV85UABZDL-gmczRP1z_4d/view
+
+![Untitled_ Mar 4, 2021 11_41 AM](https://user-images.githubusercontent.com/74078719/110027359-b8390900-7ce6-11eb-8046-47046cb87ff5.gif)
