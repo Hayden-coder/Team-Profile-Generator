@@ -36,5 +36,4 @@ https://drive.google.com/file/d/1zFAv5suAmRCV85UABZDL-gmczRP1z_4d/view
 <img width="928" alt="Screenshot 2021-03-04 125300" src="https://user-images.githubusercontent.com/74078719/110028833-9d679400-7ce8-11eb-96d0-479fc6bc948c.png">
 
 ## Description
-
-This is a software engineering team generator command line application. Users are prompted for information about the team manager and team members.
+This is a node app that can create an html file of your team members from your input to the prompts.
