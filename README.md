@@ -34,3 +34,7 @@ https://drive.google.com/file/d/1zFAv5suAmRCV85UABZDL-gmczRP1z_4d/view
 ![Untitled_ Mar 4, 2021 11_41 AM](https://user-images.githubusercontent.com/74078719/110027359-b8390900-7ce6-11eb-8046-47046cb87ff5.gif)
 
 <img width="928" alt="Screenshot 2021-03-04 125300" src="https://user-images.githubusercontent.com/74078719/110028833-9d679400-7ce8-11eb-96d0-479fc6bc948c.png">
+
+## Description
+
+This is a software engineering team generator command line application. Users are prompted for information about the team manager and team members.
